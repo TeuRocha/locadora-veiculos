@@ -5,7 +5,7 @@ Sistema de controle para a Locadora VL, desenvolvido como parte da disciplina de
 ## Integrantes do Grupo
 
 - **Gustavo** | RA: XX.XXX.XXX-X
-- **João Paulo** | RA: XX.XXX.XXX-X
+- **João Paulo** | RA: 22.222.058-4
 - **Leandro** | RA: XX.XXX.XXX-X
 - **Matheus** | RA: XX.XXX.XXX-X
 - **Thales** | RA: XX.XXX.XXX-X
