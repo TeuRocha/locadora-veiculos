@@ -8,7 +8,7 @@ Sistema de controle para a Locadora VL, desenvolvido como parte da disciplina de
 - **João Paulo** | RA: 22.222.058-4
 - **Leandro** | RA: XX.XXX.XXX-X
 - **Mateus** | RA: 22.222.002-2
-- **Thales** | RA: 22.222.03-7
+- **Thales** | RA: 22.222.033-7
 
 ---
 
