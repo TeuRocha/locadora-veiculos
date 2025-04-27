@@ -24,8 +24,8 @@ A documentação e diagramas estão organizados na pasta `nota/`, conforme a seq
 | **03. Diagrama de Atividades** | Fluxo de processos                          | [Notas/03_DiagramaAtividades.md](Notas/03_DiagramaAtividades.md) |
 | **04. Diagrama de Estados**    | Estados das locações                        | [Notas/04_DiagramaEstados.md](Notas/04_DiagramaEstados.md)       |
 | **05. Diagrama de Sequência**  | Interações entre componentes                | [Notas/05_DiagramaSequencia.md](Notas/05_DiagramaSequencia.md)   |
-| **06. Diagrama de Componentes**  | Estrutura modular lógica                | [Notas/06_DiagramaSequencia.md](Notas/06_DiagramaComponentes.md)   |
-| **07. Diagrama de Implantação**  | Arquitetura física distribuída                | [Notas/07_DiagramaSequencia.md](Notas/07_DiagramaImplantacao.md)   |
-| **Decisões Finais.md**         | Justificativas de alterações nos requisitos | [Notas/08_Decisoes.md](Notas/08_Decisoes.md)                     |
+| **06. Diagrama de Componentes**  | Estrutura modular lógica                | [Notas/06_DiagramaComponente.md](Notas/06_DiagramaComponente.md)   |
+| **07. Diagrama de Implantação**  | Arquitetura física distribuída                | [Notas/07_DiagramaImplantacao.md](Notas/07_DiagramaImplantacao.md)   |
+| **Decisões Finais.md**         | Justificativas de alterações nos requisitos | [Notas/06_Decisoes.md](Notas/06_Decisoes.md)                     |
 
 ---
